@@ -29,12 +29,15 @@ draft: false
 > If you increase the voltage you get more current. If you increase the resistance you get less current.
 
 ---
+
 ```c
 Ohms law = U = I * R
 ```
 
 ![Table of volt, current and resistance](../../../../static/images/2026/01/V-I-R-table.png)
+
 ---
+
 ## Experiment setup
 
 ### 🧪 Experiment 1: Voltage exists without current
@@ -57,6 +60,7 @@ Ohms law = U = I * R
 - Did the LED “decide” the current?
 
 ---
+
 ### 🧪 Experiment 2: Current depends on resistance
 
 **Setup**
@@ -77,6 +81,7 @@ Ohms law = U = I * R
 - Did the LED “decide” the current?
 
 ---
+
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
 - Same voltage
@@ -95,9 +100,11 @@ Ohms law = U = I * R
 - Why did the resistor heat up?
 
 ---
+
 ## What I thought would happen
 
 ---
+
 ### 🧪 Experiment 1: Voltage exists without current
 
 - Since there is no load, no current will flow. So 0A.
@@ -106,6 +113,7 @@ Ohms law = U = I * R
 Nothing else will happen.
 
 ---
+
 ### 🧪 Experiment 2: Current depends on resistance
 
 R = (Vin - LEDv) / A
@@ -145,11 +153,13 @@ The resistor got hot beacuse...
 ## Theory (minimal)
 
 ---
+
 ## What actually happened
 
 ### 🧪 Experiment 1: Voltage exists without current
 
 ---
+
 ### 🧪 Experiment 2: Current depends on resistance
 
 _Measurements_
@@ -167,6 +177,7 @@ _Questions_
 -
 
 ---
+
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
 _Measurements_
@@ -174,10 +185,13 @@ Current:
 Temperature:
 
 ---
+
 ## What surprised me
 
 ---
+
 ## Rule of thumb
 
 > Voltage pushes, resistance limits, current flows.
+
 ---
