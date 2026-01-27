@@ -34,7 +34,7 @@ draft: false
 Ohms law = U = I * R
 ```
 
-![Table of volt, current and resistance](/images/2026/01/v-i-r-table.png)
+![Table of volt, current and resistance](/static//images/2026/01/v-i-r-table.png)
 
 ---
 
