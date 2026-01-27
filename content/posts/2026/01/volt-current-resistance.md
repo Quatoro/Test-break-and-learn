@@ -22,7 +22,7 @@ series: ["Electronics Fundamentals"]
 > Resistance limits current. Resistance turns electricity into heat.
 > Low resistance = good conductor
 > High resistance = conductor does not transfer electricity very well.
-> Resistance is measured in Ohm (Ω).
+> Resistance is measured in Ohm (Ω).s
 
 **Why do they depend on eachother.**
 
@@ -32,7 +32,6 @@ series: ["Electronics Fundamentals"]
 
 ---
 
-```c
 Ohms law: 
 $$
 U = I * R
@@ -41,7 +40,11 @@ $$
 $$
 I = \frac{V}{R}
 $$
-```
+
+$$
+R = \frac{V}{I}
+$$
+
 
 ![Table of volt, current and resistance](v-i-r-table.png)
 
