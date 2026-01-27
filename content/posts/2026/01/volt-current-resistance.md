@@ -33,18 +33,11 @@ series: ["Electronics Fundamentals"]
 ---
 
 Ohms law: 
-$$
-U = I * R
-$$
-
-$$
-I = \frac{V}{R}
-$$
-
-$$
-R = \frac{V}{I}
-$$
-
+´´´c
+U = I*R
+I = V/R
+R = V/I
+´´´
 
 ![Table of volt, current and resistance](v-i-r-table.png)
 
