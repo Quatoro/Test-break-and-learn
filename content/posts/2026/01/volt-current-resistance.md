@@ -35,8 +35,8 @@ series: ["Electronics Fundamentals"]
 Ohms law: 
 ```c
 U = I*R
-I = V/R
-R = V/I
+I = U/R
+R = U/I
 ```
 
 ![Table of volt, current and resistance](v-i-r-table.png)
