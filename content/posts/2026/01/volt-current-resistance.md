@@ -151,6 +151,10 @@ The resistor got hot beacuse...
 ---
 
 ## Theory (minimal)
+### ⏸ Pause & Predict
+Before continuing, think about this:
+
+> What do you expect will happen if resistance is doubled while voltage stays the same?
 
 ---
 
