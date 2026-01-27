@@ -12,3 +12,4 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+  math = true

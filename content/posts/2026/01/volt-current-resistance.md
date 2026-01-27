@@ -2,6 +2,8 @@
 title: "Voltage, Current, and Resistance"
 date: 2026-01-27
 draft: false
+tags: ["level-1", "fundamentals"]
+series: ["Electronics Fundamentals"]
 ---
 
 
@@ -31,10 +33,17 @@ draft: false
 ---
 
 ```c
-Ohms law = U = I * R
+Ohms law: 
+$$
+U = I * R
+$$
+
+$$
+I = \frac{V}{R}
+$$
 ```
 
-![Table of volt, current and resistance](/static/images/2026/01/v-i-r-table.png)
+![Table of volt, current and resistance](v-i-r-table.png)
 
 ---
 
