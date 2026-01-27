@@ -1,6 +1,6 @@
 +++
 date = '2026-01-27T17:22:04+01:00'
-draft = true
+draft = false
 title = 'Volt Current Resistance'
 +++
 
