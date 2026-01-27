@@ -1,8 +1,9 @@
-+++
-date = '2026-01-27T17:22:04+01:00'
-draft = false
-title = 'Volt Current Resistance'
-+++
+---
+title: "Voltage, Current, and Resistance"
+date: 2026-01-27
+draft: false
+---
+
 
 # Volt, current and resistance
 
