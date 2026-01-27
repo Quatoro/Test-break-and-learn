@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Test, Break &amp; Learn</title>
+    <link>http://localhost:1313/Test-break-and-learn/posts/</link>
+    <description>Recent content in Posts on Test, Break &amp; Learn</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2026 17:22:04 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/Test-break-and-learn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Volt Current Resistance</title>
+      <link>http://localhost:1313/Test-break-and-learn/posts/2026/01/volt-current-resistance/</link>
+      <pubDate>Tue, 27 Jan 2026 17:22:04 +0100</pubDate>
+      <guid>http://localhost:1313/Test-break-and-learn/posts/2026/01/volt-current-resistance/</guid>
+      <description>&lt;h1 id=&#34;volt-current-and-resistance&#34;&gt;Volt, current and resistance&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;What is voltage, really?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voltage is what creates the push that makes electrons move. Voltage is the difference between two different points is a cicuit. With only one point voltage means nothing. It&amp;rsquo;s measured in volt (V).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;What is current, really?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Current is the rate of electrons. You can think of current as a result of the amount of voltage and resistance in a cicuit.
+Current can only flow when there is a continues path.
+It&amp;rsquo;s measured in ampere (A).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

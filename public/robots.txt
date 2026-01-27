@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: http://localhost:1313/Test-break-and-learn/sitemap.xml

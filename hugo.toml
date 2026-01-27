@@ -1,0 +1,14 @@
+baseURL = "https://quatoro.github.io/Test-break-and-learn/"
+languageCode = "en-us"
+title = "Test, Break & Learn"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  author = "Nick"
+  description = "Learning electronics by testing, breaking, and learning in public."
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
