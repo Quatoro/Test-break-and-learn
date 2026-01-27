@@ -5,8 +5,6 @@ draft: false
 ---
 
 
-# Volt, current and resistance
-
 **What is voltage, really?**
 
 > Voltage is what creates the push that makes electrons move. Voltage is the difference between two different points is a cicuit. With only one point voltage means nothing. It's measured in volt (V).
@@ -30,12 +28,13 @@ draft: false
 > Current moves throuh a circuit with some degree of friction. Resistance is that friction, and voltage affect the amount of current that can flow.
 > If you increase the voltage you get more current. If you increase the resistance you get less current.
 
+---
 ```c
 Ohms law = U = I * R
 ```
 
 ![Table of volt, current and resistance](../../../../static/images/2026/01/V-I-R-table.png)
-
+---
 ## Experiment setup
 
 ### 🧪 Experiment 1: Voltage exists without current
@@ -58,7 +57,6 @@ Ohms law = U = I * R
 - Did the LED “decide” the current?
 
 ---
-
 ### 🧪 Experiment 2: Current depends on resistance
 
 **Setup**
@@ -79,7 +77,6 @@ Ohms law = U = I * R
 - Did the LED “decide” the current?
 
 ---
-
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
 - Same voltage
@@ -98,18 +95,17 @@ Ohms law = U = I * R
 - Why did the resistor heat up?
 
 ---
-
 ## What I thought would happen
 
+---
 ### 🧪 Experiment 1: Voltage exists without current
 
 - Since there is no load, no current will flow. So 0A.
 - Voltage will be what the supply is set to.
 
-## Nothing else will happen.
+Nothing else will happen.
 
 ---
-
 ### 🧪 Experiment 2: Current depends on resistance
 
 R = (Vin - LEDv) / A
@@ -134,7 +130,8 @@ _Questions_
 
 -
 -
-- ***
+
+---
 
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
@@ -147,10 +144,12 @@ The resistor got hot beacuse...
 
 ## Theory (minimal)
 
+---
 ## What actually happened
 
 ### 🧪 Experiment 1: Voltage exists without current
 
+---
 ### 🧪 Experiment 2: Current depends on resistance
 
 _Measurements_
@@ -166,16 +165,19 @@ _Questions_
 
 -
 -
-- ***
 
+---
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
 _Measurements_
 Current:
 Temperature:
 
+---
 ## What surprised me
 
+---
 ## Rule of thumb
 
 > Voltage pushes, resistance limits, current flows.
+---
