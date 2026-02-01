@@ -6,7 +6,6 @@ tags: ["level-1", "fundamentals"]
 series: ["Electronics Fundamentals"]
 ---
 
-
 **What is voltage, really?**
 
 > Voltage is what creates the push that makes electrons move. Voltage is the difference between two different points is a cicuit. With only one point voltage means nothing. It's measured in volt (V).
@@ -32,7 +31,8 @@ series: ["Electronics Fundamentals"]
 
 ---
 
-Ohms law: 
+Ohms law:
+
 ```c
 U = I*R
 I = U/R
@@ -60,9 +60,8 @@ R = U/I
 
 **Questions**
 
-- What changed?
-- What stayed the same?
-- Did the LED “decide” the current?
+- Will there be voltage?
+- Will there be current?
 
 ---
 
@@ -122,12 +121,17 @@ Nothing else will happen.
 ### 🧪 Experiment 2: Current depends on resistance
 
 R = (Vin - LEDv) / A
+
 Forward voltage of LED is about 2V.
+
 Vin = 5v
+
 R = 220 Ω, 1 kΩ, 10 kΩ
 
 13mA = 3V / 220 ohm
+
 3mA = 3V / 1k ohm
+
 0,3mA = 3V / 10k ohm
 
 _Measurements_
@@ -142,9 +146,7 @@ Current:
 _Questions_
 
 -
--
-
----
+- ***
 
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
@@ -156,7 +158,9 @@ The resistor got hot beacuse...
 ---
 
 ## Theory (minimal)
+
 ### ⏸ Pause & Predict
+
 Before continuing, think about this:
 
 > What do you expect will happen if resistance is doubled while voltage stays the same?
@@ -183,9 +187,7 @@ Current:
 _Questions_
 
 -
--
-
----
+- ***
 
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
