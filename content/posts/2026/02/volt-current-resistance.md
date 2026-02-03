@@ -6,6 +6,10 @@ tags: ["level-1", "fundamentals"]
 series: ["Electronics Fundamentals"]
 ---
 
+I asked ChatGPT to get me a corriculum to follow. With some simple exerpiments that has questions before and after. Starting with the fundamentals and from the beginning.
+
+Watch the video on YouTube Test <https://www.youtube.com/@TestBreakandLearn>
+
 **What is voltage, really?**
 
 > Voltage is what creates the push that makes electrons move. Voltage is the difference between two different points is a cicuit. With only one point voltage means nothing. It's measured in volt (V).
@@ -34,9 +38,9 @@ series: ["Electronics Fundamentals"]
 Ohms law:
 
 ```c
-U = I*R
-I = U/R
-R = U/I
+U = I * R
+I = U / R
+R = U / I
 ```
 
 ![Table of volt, current and resistance](v-i-r-table.png)
