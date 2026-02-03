@@ -1,6 +1,6 @@
 ---
 title: "Voltage, Current, and Resistance"
-date: 2026-01-27
+date: 2026-02-03
 draft: false
 tags: ["level-1", "fundamentals"]
 series: ["Electronics Fundamentals"]
@@ -134,15 +134,6 @@ R = 220 Ω, 1 kΩ, 10 kΩ
 
 0,3mA = 3V / 10k ohm
 
-_Measurements_
-Current:
-
-- 220 ohm =
-- 1k ohm =
-- 10k ohm =
-  _Brightness_
--
-
 _Questions_
 
 -
@@ -171,6 +162,9 @@ Before continuing, think about this:
 
 ### 🧪 Experiment 1: Voltage exists without current
 
+- There is a load. It draws current through my multimeter. Voltage drops to zero.
+- Just measureing the voltage shows same voltage as powersupply.
+
 ---
 
 ### 🧪 Experiment 2: Current depends on resistance
@@ -178,26 +172,32 @@ Before continuing, think about this:
 _Measurements_
 Current:
 
-- 220 ohm =
-- 1k ohm =
-- 10k ohm =
+- 220 ohm = 13mA
+- 1k ohm = 3mA
+- 10k ohm = did not register.
 
 ## _Brightness_
 
 _Questions_
 
--
-- ***
+- Brightnes goes upp the lower resistor that is used. With 10kOhm I could almost not see any light.
+
+---
 
 ### 🧪 Experiment 3: Resistance turns energy into heat
 
 _Measurements_
-Current:
-Temperature:
+Current: 200mA. Same as maximum output set on powersupply
+Temperature: 38 degrees Celsius
+
+Had no problem touching the reistor. Only hade it on for about 15-16 seconds. I only have one breadboard and don't want to damage it.
 
 ---
 
 ## What surprised me
+
+That when measuring current and no load attached my multimeter drawed a lot more power than i thought it would.
+And the voltage dropped to zero while testing.
 
 ---
 
